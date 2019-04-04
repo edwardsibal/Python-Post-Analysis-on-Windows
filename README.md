@@ -5,6 +5,6 @@ About the files:
 These Python scripts automate Windows tasks to automatically: 
 1) Create multiple folders with a specified folder name (mkdir_file.py)
 2) Delete unnecessary files in a directory (deleteFiles.py)
-3) Call the Excel Macro function and apply the macro to all associated .csv files (CallMacroExcel.py)
+3) Call an Excel Macro function and apply the macro to all associated .csv files (CallMacroExcel.py)
 
 ...More to come! 
